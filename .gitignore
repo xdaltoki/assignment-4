@@ -1,6 +1,9 @@
 # ignore files
 *.log
 **/User Manual/
-"/Software Requirements Specification/SRS_v*"
-"/Software Design Document/SDD_v*"
+**/*-*.txt
+/Src/styles.css
+**/SRS_v*
+**/SDD_v*
 /**/README.md
+
