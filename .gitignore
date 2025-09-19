@@ -1,7 +1,7 @@
 # ignore files
 *.log
 **/User Manual/
-
+**/*-*.txt
 /Src/styles.css
 **/SRS_v*
 **/SDD_v*
